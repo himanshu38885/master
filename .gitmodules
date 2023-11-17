@@ -1,0 +1,3 @@
+[submodule "Knowledge_Base"]
+	path = Knowledge_Base
+	url = git@github.com:praveen1994dec/Knowledge_Base.git
